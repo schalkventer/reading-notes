@@ -1,5 +1,6 @@
-John Maeda - How to Speak Machine_ Computational Thinking for the Rest of Us (2019, Portfolio) - libgen.lc.epub (Highlight: 338; Note: 0)
+How to Speak Machine: Computational Thinking for the Rest of Us (2019)
 
+John Maeda
 ───────────────
 
 ▪ I have always been interested in how the computer (which is an object of great complexity) and design (which is traditionally about simplicity) tend to mix poorly together like the proverbial “oil and water.”
