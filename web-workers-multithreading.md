@@ -1,4 +1,5 @@
-**Web Workers: Multithreaded Programs in JavaScript** by _Ido Greeb_
+Web Workers: Multithreaded Programs in JavaScript 
+Ido Green
 
 ---
 
