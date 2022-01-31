@@ -1,3 +1,9 @@
+Jamstack Handbook
+
+Colby Fayock
+
+---
+
 ▪ The Jamstack boils down to a few basic principles which represent the JAM in Jamstack: JavaScript, APIs, and Markup.
 
 ▪ Part of the reason I love working with the Jamstack architecture is the tooling. While we’re still young in the relative lifetime of the architecture, working with Jamstack projects makes the web fun again.
