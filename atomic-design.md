@@ -1,3 +1,9 @@
+Atomic Design (2016)
+
+Brad Frost
+
+---
+
 ▪ It was 2013, and we huddled with Brad Frost and Jennifer Brook around a sunlit kitchen table in Brooklyn. The four of us had just begun work on a new website for TechCrunch, and we were sketching wireframes in Jennifer’s apartment, wrestling with the new demands of responsive design. Brad pulled out his laptop: “I’ve been playing with a new idea.”
 
 ▪ this was a shift in perspective, a way to move away from conceiving a website design as a collection of static page templates, and instead as a dynamic system of adaptable components.
