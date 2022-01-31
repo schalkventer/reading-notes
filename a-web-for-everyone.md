@@ -1,3 +1,9 @@
+A Web for Everyone: Designing Accessible User Experiences (2013)
+
+Sarah Horton & Whitney Quesenbery
+
+---
+
 ▪ No matter your title or skills, you are probably a member of a team that brings together many skills and roles to the task of building products. And you are thinking about accessibility. For accessibility thinking, you need to understand how your work fits with the work of others on your team, and how your decisions and actions affect millions of people around the world who use the web.
 
 ▪ It offers a framework composed of accessible user experience principles and guidelines that will help you create websites and web applications that are accessible for everyone.
