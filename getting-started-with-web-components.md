@@ -1,3 +1,9 @@
+Getting Started with Web Components (2019)
+
+Prateek Jadhwani
+
+---
+
 ▪ Web components are web specifications that provide the user with a component-driven methodology for development. It also provides encapsulation and allows you to use a component-driven methodology without any dependencies.
 
 ▪ You can also use this book to learn about and get into component-driven methodologies
