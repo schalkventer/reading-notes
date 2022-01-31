@@ -1,3 +1,9 @@
+The Uncertain Web
+
+Rob Larson
+
+---
+
 "The best way to approach the Web today is to forgo hard-and-fast rules and design for uncertainty."
 
 "In the early 2000s, there was basically one browser (Internet Explorer 6), one platform (Windows XP), and one screen resolution (1024 × 768) that mattered. With that setup, you could design, develop, and test the vast majority of web users with one desktop computer. The biggest question on the horizon, it seemed, was when it would be viable to design for 1280-pixel screens."
