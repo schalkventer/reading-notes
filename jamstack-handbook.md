@@ -1,4 +1,4 @@
-Jamstack Handbook
+Jamstack Handbook (2020)
 
 Colby Fayock
 
