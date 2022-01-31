@@ -1,10 +1,4 @@
-
-
-Schalk Venter <venterschalk@gmail.com>
-Sat, 4 Sept, 19:00
-to me
-
-Abby Covert - How to Make Sense of Any Mess_ Information Architecture for Everybody (2014, CreateSpace) - libgen.lc-1.epub (Highlight: 316; Note: 0)
+Abby Covert - How to Make Sense of Any Mess (2014)
 
 ───────────────
 
