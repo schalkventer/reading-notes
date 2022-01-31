@@ -1,7 +1,3 @@
-design-systems.epub (Highlight: 511; Note: 0)
-
-───────────────
-
 ▪ In recent years, web designers have started embracing more modular, pattern-driven design practices. And with good reason: we’re being asked to create compelling experiences for more screens, more devices, more places, more people than ever before. As a result, we’ve started to break our interfaces down into tiny, reusable modules, and begun using those patterns to build products, features, and interfaces more quickly than ever before.
 
 ▪ But by themselves, design patterns aren’t enough. They need to live within a larger process, one that ensures these little interface modules feel unified, cohesive, connected. Part of a whole. In other words, they need a design system to thrive — and that’s where Alla’s book comes in.
