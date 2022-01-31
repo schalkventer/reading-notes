@@ -1,6 +1,8 @@
-Abby Covert - How to Make Sense of Any Mess (2014)
+How to Make Sense of Any Mess (2014)
 
-───────────────
+Abby Covert
+
+---
 
 ▪ This book outlines a step-by-step process for making sense of messes made of information (and people)
 
