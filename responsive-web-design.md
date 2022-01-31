@@ -1,3 +1,9 @@
+Responsive Web Design
+
+Ethan Marcotte
+
+---
+
 ▪ The short history of web design has already shown us the transformative power of language.
 
 ▪ When Ethan Marcotte coined the term “responsive web design” he conjured up something special. The technologies existed already: fluid grids, flexible images, and media queries. But Ethan united these techniques under a single banner, and in so doing changed the way we think about web design.
