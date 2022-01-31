@@ -1,3 +1,9 @@
+Modern Web Development on the JAMstack
+
+Mathias Biilmann & Phil Hawksworth
+
+---
+
 ▪ In just the past few years, a flurry of advancements has greatly strengthened the web as a content and application platform
 
 ▪ Browsers are much more powerful. JavaScript has matured. WebAssembly is on the horizon. It certainly feels like the beginning of a new chapter for the web. You’ve likely felt this as you’ve witnessed the explosion of new frontend frameworks and API-based services.
