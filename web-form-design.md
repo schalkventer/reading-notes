@@ -1,6 +1,12 @@
+Web Form Design: Filling in the Blanks
+
+Luke Wroblewski
+
+---
+
 ▪ Web form design. Do we really need an entire book on such a mundane topic?
 
-You bet we do. As arbiters of checkout, registration, and data entry, Web forms are often the lynchpins of successful Web applications.
+- You bet we do. As arbiters of checkout, registration, and data entry, Web forms are often the lynchpins of successful Web applications.
 
 ▪ Checkout forms are how ecommerce vendors close deals—they stand between people and the products or services they want and between companies and their profits. For example, eBay’s vast inventory (it’s the 30th largest economy in the world) is driven in no small part by its Sell Your Item form.
 
