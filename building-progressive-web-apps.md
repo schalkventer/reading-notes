@@ -1,3 +1,9 @@
+Building Progressive Web Apps: Bringing the Power of Native to the Browser (2017)
+
+Tal Ater
+
+---
+
 ▪ Progressive web apps are an exciting new form of modern web apps. These apps leverage the latest web capabilities to deliver an experience that combines the unique features of native mobile apps with the advantages of the web.
 
 ▪ You will learn how to build web apps that take advantage of features that have so far been the exclusive domain of native apps
