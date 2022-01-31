@@ -1,3 +1,9 @@
+Form Design Patterns (2018)
+
+Adam Silver
+
+---
+
 ▪ That’s actually radical, and really refreshing to read. Because most designers will do anything but the expected. Then I have to tell them off on behalf of the users they’re forcing to decipher their interface. Nobody has time for that.
 
 ▪ The web is constantly changing. Browsers and devices are released at a rapid rate, each with varying features and capabilities. This is why Jeremy Keith refers to the web as a continuum, not a platform18.
