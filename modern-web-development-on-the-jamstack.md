@@ -1,4 +1,4 @@
-Modern Web Development on the JAMstack
+Modern Web Development on the JAMstack (2019)
 
 Mathias Biilmann & Phil Hawksworth
 
