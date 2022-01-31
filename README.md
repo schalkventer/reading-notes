@@ -21,6 +21,6 @@ Personal collection of research, ideas and reading notes from influencial books.
 - [Modern Web Development on the JAMstack (2019)](https://github.com/schalkventer/reading-notes/blob/main/modern-web-development-on-the-jamstack.md)
 - [Responsive Web Design (2011)](https://github.com/schalkventer/reading-notes/blob/main/responsive-web-design.md)
 - [The Uncertain Web (2014)](https://github.com/schalkventer/reading-notes/blob/main/uncertain-web.md)
-- [Steal Like an Artist (2012)](https://github.com/schalkventer/reading-notes/blob/main/steal-like-an-artist)
+- [Steal Like an Artist (2012)](https://github.com/schalkventer/reading-notes/blob/main/steal-like-an-artist.md)
 - [Web Form Design (2008)](https://github.com/schalkventer/reading-notes/blob/main/uncertain-web.md)
 - [Web Workers (2012)](https://github.com/schalkventer/reading-notes/blob/main/web-workers-multithreading.md)
