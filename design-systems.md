@@ -1,4 +1,4 @@
-Desgn Systems (2017)
+Design Systems (2017)
 
 Alla Kholmatova
 
