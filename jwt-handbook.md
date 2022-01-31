@@ -1,4 +1,4 @@
-JWT Handbook
+JWT Handbook (2016)
 
 Sebastián Peyrott
 
