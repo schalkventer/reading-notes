@@ -1,3 +1,9 @@
+Authentication Survival Guide (2017)
+
+João Angelo
+
+---
+
 ▪ Authentication is a complex topic, if you think otherwise you will probably get burnt down the road. There’s a myriad of technologies, protocols, concepts and do’s and don’ts. On top of that it’s difficult to keep track of all the evolving best practices and outdated/overloaded terminology; the last one is especially troubling if you’re just getting started on the subject and start to see different things being called by the same name or the other way around
 
 ▪ On the other hand, this doesn’t try to be a definitive reference on all things authentication. There will be subjects that won’t get discussed and others that will only be briefly mentioned and not fully explained. In summary this will give you a jump start on most common scenarios and things to watch out for
