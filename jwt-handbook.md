@@ -1,3 +1,9 @@
+JWT Handbook
+
+Sebastián Peyrott
+
+---
+
 ▪ JSON Web Token, or JWT (“jot”) for short, is a standard for safely passing claims in space constrained environments. It has found its way into all major web frameworks.
 
 ▪ A JSON Web Token looks like this (newlines inserted for readability): eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9. eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWV9. TJVA95OrM7E2cBab30RMHrHDcEfxjoYZgeFONFh7HgQ
