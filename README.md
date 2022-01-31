@@ -3,6 +3,7 @@
 Personal collection of research, ideas and reading notes from influencial books.
 
 - [A Web for Everyone: Designing Accessible User Experiences (2013)](https://github.com/schalkventer/reading-notes/blob/main/a-web-for-everyone.md)
+- [Apprenticeship Patterns (2009)](https://github.com/schalkventer/reading-notes/blob/main/apprenticeship-patterns.md)
 - [Atomic Design (2016)](https://github.com/schalkventer/reading-notes/blob/main/atomic-design.md)
 - [Authentication Survival Guide (2017)](https://github.com/schalkventer/reading-notes/blob/main/authentication-survival-guide.md)
 - [Building Progressive Web Apps: Bringing the Power of Native to the Browser (2017)](https://github.com/schalkventer/reading-notes/blob/main/building-progressive-web-apps.md)
@@ -15,6 +16,7 @@ Personal collection of research, ideas and reading notes from influencial books.
 - [How to Speak Machine: Computational Thinking for the Rest of Us (2019)](https://github.com/schalkventer/reading-notes/blob/main/how-to-speak-machine.md)
 - [The Interaction Design Competency Framework (2016)](https://github.com/schalkventer/reading-notes/blob/main/ixd-competency-framework.md)
 - [Jamstack Handbook (2020)](https://github.com/schalkventer/reading-notes/blob/main/jamstack-handbook.md)
+- [Just Enough Research (2013)](https://github.com/schalkventer/reading-notes/blob/main/just-enough-research.md)
 - [JWT Handbook (2016)](https://github.com/schalkventer/reading-notes/blob/main/jwt-handbook.md)
 - [Modern Web Development on the JAMstack (2019)](https://github.com/schalkventer/reading-notes/blob/main/modern-web-development-on-the-jamstack.md)
 - [Responsive Web Design (2011)](https://github.com/schalkventer/reading-notes/blob/main/responsive-web-design.md)
