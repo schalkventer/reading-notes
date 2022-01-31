@@ -1,3 +1,8 @@
+Web Workers: Multithreaded Programs in JavaScript
+Ido Greeb
+
+---
+
 ▪ Web Workers is a powerful feature of HTML5 that hasn’t received very much attention.
 
 ▪ It provides an API that allows you to run JavaScript in a separate thread that doesn’t interfere with the user interface of your web application. This JavaScript runs in parallel with the main renderer and any of your user interface scripts on it.
