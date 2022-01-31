@@ -1,4 +1,4 @@
-Web Workers: Multithreaded Programs in JavaScript 
+Web Workers: Multithreaded Programs in JavaScript (2012)
 
 Ido Green
 
