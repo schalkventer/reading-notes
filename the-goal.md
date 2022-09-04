@@ -1,4 +1,6 @@
-Eliyahu M. Goldratt, Jeff Cox - The goal_ a process of ongoing improvement (2004, North River Press) - libgen.lc.epub (Highlight: 344; Note: 0)
+The Goal (1984)
+
+Eliyahu M. Goldratt
 
 ───────────────
 
