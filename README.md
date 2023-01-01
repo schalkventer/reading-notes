@@ -29,6 +29,8 @@ Personal collection of research, ideas and reading notes from influencial books.
 
 ## 🤖 Software / JavaScript
 
+- [Eloquent JavaScript (2018)](https://github.com/schalkventer/reading-notes/blob/main/eloquent-javascript.md)
+- [Composing Software (2018)](https://github.com/schalkventer/reading-notes/blob/main/composing-software.md)
 - [Getting Started with Web Components (2019)](https://github.com/schalkventer/reading-notes/blob/main/getting-started-with-web-components.md)
 - [Jamstack Handbook (2020)](https://github.com/schalkventer/reading-notes/blob/main/jamstack-handbook.md)
 - [Authentication Survival Guide (2017)](https://github.com/schalkventer/reading-notes/blob/main/authentication-survival-guide.md)
