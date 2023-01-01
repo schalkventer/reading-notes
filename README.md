@@ -27,7 +27,7 @@ Personal collection of research, ideas and reading notes from influencial books.
 - [Just Enough Research (2013)](https://github.com/schalkventer/reading-notes/blob/main/just-enough-research.md)
 - [Steal Like an Artist (2012)](https://github.com/schalkventer/reading-notes/blob/main/steal-like-an-artist.md)
 
-## 🤖 JavaScript
+## 🤖 Software / JavaScript
 
 - [Getting Started with Web Components (2019)](https://github.com/schalkventer/reading-notes/blob/main/getting-started-with-web-components.md)
 - [Jamstack Handbook (2020)](https://github.com/schalkventer/reading-notes/blob/main/jamstack-handbook.md)
