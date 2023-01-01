@@ -35,4 +35,4 @@ Personal collection of research, ideas and reading notes from influencial books.
 - [Building Progressive Web Apps (2017)](https://github.com/schalkventer/reading-notes/blob/main/building-progressive-web-apps.md)
 - [Web Workers (2012)](https://github.com/schalkventer/reading-notes/blob/main/web-workers-multithreading.md)
 - [Modern Web Development on the JAMstack (2019)](https://github.com/schalkventer/reading-notes/blob/main/modern-web-development-on-the-jamstack.md)
-- [JWT Handbook (2016)](https://github.com/schalkventer/reading-notes/blob/main/jwt-handbook.md) ![](https://img.shields.io/badge/-javascript-yellow)
+- [JWT Handbook (2016)](https://github.com/schalkventer/reading-notes/blob/main/jwt-handbook.md)
