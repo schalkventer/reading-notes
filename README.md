@@ -3,7 +3,7 @@
 Personal collection of research, ideas and reading notes from influencial books.
 
 - [A Web for Everyone (2013)](https://github.com/schalkventer/reading-notes/blob/main/a-web-for-everyone.md) ![](https://img.shields.io/badge/-accessibility-blue)
-- [Apprenticeship Patterns (2009)](https://github.com/schalkventer/reading-notes/blob/main/apprenticeship-patterns.md) ![](https://img.shields.io/badge/-teaching-purple)
+- [Apprenticeship Patterns (2009)](https://github.com/schalkventer/reading-notes/blob/main/apprenticeship-patterns.md) ![](https://img.shields.io/badge/-education-purple)
 - [Atomic Design (2016)](https://github.com/schalkventer/reading-notes/blob/main/atomic-design.md)
 - [Authentication Survival Guide (2017)](https://github.com/schalkventer/reading-notes/blob/main/authentication-survival-guide.md)
 - [Building Progressive Web Apps (2017)](https://github.com/schalkventer/reading-notes/blob/main/building-progressive-web-apps.md)
