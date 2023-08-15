@@ -27,14 +27,18 @@ Personal collection of research, ideas and reading notes from influencial books.
 - [Just Enough Research (2013)](https://github.com/schalkventer/reading-notes/blob/main/just-enough-research.md)
 - [Steal Like an Artist (2012)](https://github.com/schalkventer/reading-notes/blob/main/steal-like-an-artist.md)
 
-## 🤖 Software / JavaScript
+## 🤖 JavaScript Specific
 
 - [Eloquent JavaScript (2018)](https://github.com/schalkventer/reading-notes/blob/main/eloquent-javascript.md)
 - [Composing Software (2018)](https://github.com/schalkventer/reading-notes/blob/main/composing-software.md)
 - [Getting Started with Web Components (2019)](https://github.com/schalkventer/reading-notes/blob/main/getting-started-with-web-components.md)
 - [Jamstack Handbook (2020)](https://github.com/schalkventer/reading-notes/blob/main/jamstack-handbook.md)
-- [Authentication Survival Guide (2017)](https://github.com/schalkventer/reading-notes/blob/main/authentication-survival-guide.md)
 - [Building Progressive Web Apps (2017)](https://github.com/schalkventer/reading-notes/blob/main/building-progressive-web-apps.md)
 - [Web Workers (2012)](https://github.com/schalkventer/reading-notes/blob/main/web-workers-multithreading.md)
 - [Modern Web Development on the JAMstack (2019)](https://github.com/schalkventer/reading-notes/blob/main/modern-web-development-on-the-jamstack.md)
 - [JWT Handbook (2016)](https://github.com/schalkventer/reading-notes/blob/main/jwt-handbook.md)
+
+## 🌐 Other Software
+
+- [PostgreSQL](https://github.com/schalkventer/reading-notes/blob/main/postgresql-up-and-running.md).
+- [Authentication Survival Guide (2017)](https://github.com/schalkventer/reading-notes/blob/main/authentication-survival-guide.md)
