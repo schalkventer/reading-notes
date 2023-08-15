@@ -40,5 +40,5 @@ Personal collection of research, ideas and reading notes from influencial books.
 
 ## 🌐 Other Software
 
-- [PostgreSQL](https://github.com/schalkventer/reading-notes/blob/main/postgresql-up-and-running.md).
+- [PostgreSQL (2012)](https://github.com/schalkventer/reading-notes/blob/main/postgresql-up-and-running.md).
 - [Authentication Survival Guide (2017)](https://github.com/schalkventer/reading-notes/blob/main/authentication-survival-guide.md)
