@@ -30,6 +30,7 @@ Personal collection of research, ideas and reading notes from influencial books.
 ## 🤖 JavaScript Specific
 
 - [Eloquent JavaScript (2018)](https://github.com/schalkventer/reading-notes/blob/main/eloquent-javascript.md)
+- [Programming TypeScript (2019)](https://github.com/schalkventer/reading-notes/blob/main/programming-typescript.md)
 - [Composing Software (2018)](https://github.com/schalkventer/reading-notes/blob/main/composing-software.md)
 - [Getting Started with Web Components (2019)](https://github.com/schalkventer/reading-notes/blob/main/getting-started-with-web-components.md)
 - [Jamstack Handbook (2020)](https://github.com/schalkventer/reading-notes/blob/main/jamstack-handbook.md)
