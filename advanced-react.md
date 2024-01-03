@@ -1,4 +1,4 @@
-Advanced React: Deep dives, investigations, performance patterns and techniques (2023)
+Advanced React: Deep Dives, Investigations, Performance Patterns and Techniques (2023)
 
 Nadia Makarevich
 
