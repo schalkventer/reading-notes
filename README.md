@@ -27,8 +27,9 @@ Personal collection of research, ideas and reading notes from influencial books.
 - [Just Enough Research (2013)](https://github.com/schalkventer/reading-notes/blob/main/just-enough-research.md)
 - [Steal Like an Artist (2012)](https://github.com/schalkventer/reading-notes/blob/main/steal-like-an-artist.md)
 
-## 🤖 JavaScript Specific
+## 💛 JavaScript Language
 
+- [Advanced React (2023)](https://github.com/schalkventer/reading-notes/blob/main/advanced-react.md)
 - [Eloquent JavaScript (2018)](https://github.com/schalkventer/reading-notes/blob/main/eloquent-javascript.md)
 - [Programming TypeScript (2019)](https://github.com/schalkventer/reading-notes/blob/main/programming-typescript.md)
 - [Getting Started with Web Components (2019)](https://github.com/schalkventer/reading-notes/blob/main/getting-started-with-web-components.md)
