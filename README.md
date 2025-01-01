@@ -16,6 +16,7 @@ Personal collection of research, ideas and reading notes from influencial books.
 - [How the Internet Happened (2018)](https://github.com/schalkventer/reading-notes/blob/main/how-the-internet-happened.md)
 - [How to Speak Machine (2019)](https://github.com/schalkventer/reading-notes/blob/main/how-to-speak-machine.md)
 - [The Goal (1984)](https://github.com/schalkventer/reading-notes/blob/main/the-goal.md) 
+- [Out of the Tar Pit (2006)](https://github.com/schalkventer/reading-notes/blob/main/out-of-the-tar-pit.md)
 
 ## 🎨 Interaction / Product Design
 
@@ -43,6 +44,8 @@ Personal collection of research, ideas and reading notes from influencial books.
 
 - [Composing Software (2018)](https://github.com/schalkventer/reading-notes/blob/main/composing-software.md)
 - [Data-Oriented Programming (2022)](https://github.com/schalkventer/reading-notes/blob/main/data-oriented-programming.md)
+- [Dive into Design Patterns (2018)](https://github.com/schalkventer/reading-notes/blob/main/dive-into-design-patterns.md)
+
 
 ## 🌐 Other
 
