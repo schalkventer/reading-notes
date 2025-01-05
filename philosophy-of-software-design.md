@@ -1,8 +1,8 @@
 A Philosophy of Software Design (2018)
+
 John Ousterhout
 
 ---
-
 
 ▪ The most fundamental problem in computer science is problem decomposition: how to take a complex problem and divide it up into pieces that can be solved independently.
 
