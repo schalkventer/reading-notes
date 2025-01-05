@@ -4,7 +4,7 @@ Personal collection of research, ideas and reading notes from influencial books.
 
 ## 🦺 Software Engineering
 
-- [A Philosophy of Software Design(2018)](https://github.com/schalkventer/reading-notes/blob/main/philosophy-of-software-design.md)
+- [A Philosophy of Software Design (2018)](https://github.com/schalkventer/reading-notes/blob/main/philosophy-of-software-design.md)
 - [Composing Software (2018)](https://github.com/schalkventer/reading-notes/blob/main/composing-software.md)
 - [Data-Oriented Programming (2022)](https://github.com/schalkventer/reading-notes/blob/main/data-oriented-programming.md)
 - [Dive into Design Patterns (2018)](https://github.com/schalkventer/reading-notes/blob/main/dive-into-design-patterns.md)
