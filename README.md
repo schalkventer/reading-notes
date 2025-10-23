@@ -51,3 +51,5 @@ Personal collection of research, ideas and reading notes from influencial books.
 - [PostgreSQL (2012)](https://github.com/schalkventer/reading-notes/blob/main/notes/postgresql-up-and-running.md).
 - [Authentication Survival Guide (2017)](https://github.com/schalkventer/reading-notes/blob/main/notes/authentication-survival-guide.md)
 - [JWT Handbook (2016)](https://github.com/schalkventer/reading-notes/blob/main/notes/jwt-handbook.md)
+
+<img height="400" alt="" src="https://github.com/user-attachments/assets/93572abd-dace-49ef-ba5c-23e73d1e2180" />
